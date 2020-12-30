@@ -1,3 +1,4 @@
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)]
 <h1 align="center">I'm Linh Nguyen Duc</h1>
 <h3 align="center">Software engineer</h3>
 
