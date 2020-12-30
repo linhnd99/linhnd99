@@ -1,4 +1,4 @@
-![Matrix SVG](https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6)
+<iframe src="https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 <h1 align="center">I'm Linh Nguyen Duc</h1>
 <h3 align="center">Software engineer</h3>
 
