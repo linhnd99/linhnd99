@@ -1,4 +1,5 @@
-![Z](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+
+![Z](https://giphy.com/embed/U4FkC2VqpeNRHjTDQ5)
 
 <h1 align="center">I'm Linh Nguyen Duc</h1>
 <h3 align="center">Software engineer</h3>
