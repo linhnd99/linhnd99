@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Linh</h1>
+<h1 align="center">I'm Linh Nguyen Duc</h1>
 <h3 align="center">Software engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linhnd99&label=Profile%20views&color=0e75b6&style=flat" alt="linhnd99" /> </p>
