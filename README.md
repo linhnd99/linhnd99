@@ -6,15 +6,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linhnd99&label=Profile%20views&color=0e75b6&style=flat" alt="linhnd99" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=linhnd99" alt="linhnd99" /></a> </p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linhnd99&show_icons=true&locale=en" alt="linhnd99" /></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/linh.nguyenduc.99" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="linh.nguyenduc.99" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/systemadmin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="systemadmin" height="30" width="40" /></a>
 </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=linhnd99&show_icons=true&locale=en" alt="linhnd99" /></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
